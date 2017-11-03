@@ -3,6 +3,7 @@
 ## Articles
 
 - [Function as Child Components](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9)
+- [Use a Render Prop!](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
 
 ## Contents
 
@@ -10,6 +11,8 @@
 - [formik](https://github.com/jaredpalmer/formik)
 - [react-axios](https://github.com/sheaivey/react-axios)
 - [react-ease](https://github.com/threepointone/react-ease)
+- [react-image-palette](https://github.com/FormidableLabs/react-image-palette)
+- [react-intersection-list](https://github.com/researchgate/react-intersection-list)
 - [react-measure](https://github.com/souporserious/react-measure)
 - [react-motion](https://github.com/chenglou/react-motion)
 - [react-nes](https://github.com/tkh44/react-nes)
@@ -17,7 +20,9 @@
 - [react-router](https://github.com/ReactTraining/react-router)
 - [react-springs](https://github.com/threepointone/react-springs)
 - [react-state](https://github.com/threepointone/react-state)
+- [react-toggled](https://github.com/kentcdodds/react-toggled)
 - [react-transition-group](https://github.com/reactjs/react-transition-group)
+- [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor)
 
 ## Gists
 
