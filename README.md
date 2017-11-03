@@ -1,0 +1,1 @@
+# awesome-react-function-as-child-components
