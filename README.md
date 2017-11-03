@@ -17,6 +17,7 @@
 - [react-motion](https://github.com/chenglou/react-motion)
 - [react-nes](https://github.com/tkh44/react-nes)
 - [react-portal](https://github.com/tajo/react-portal)
+- [react-progressive-image](https://github.com/FormidableLabs/react-progressive-image)
 - [react-router](https://github.com/ReactTraining/react-router)
 - [react-springs](https://github.com/threepointone/react-springs)
 - [react-state](https://github.com/threepointone/react-state)
