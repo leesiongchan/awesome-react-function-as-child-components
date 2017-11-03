@@ -7,13 +7,17 @@
 ## Contents
 
 - [downshift](https://github.com/paypal/downshift)
+- [formik](https://github.com/jaredpalmer/formik)
+- [react-axios](https://github.com/sheaivey/react-axios)
 - [react-ease](https://github.com/threepointone/react-ease)
 - [react-measure](https://github.com/souporserious/react-measure)
 - [react-motion](https://github.com/chenglou/react-motion)
+- [react-nes](https://github.com/tkh44/react-nes)
 - [react-portal](https://github.com/tajo/react-portal)
 - [react-router](https://github.com/ReactTraining/react-router)
 - [react-springs](https://github.com/threepointone/react-springs)
 - [react-state](https://github.com/threepointone/react-state)
+- [react-transition-group](https://github.com/reactjs/react-transition-group)
 
 ## Gists
 
