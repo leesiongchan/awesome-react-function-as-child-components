@@ -11,6 +11,7 @@
 - [formik](https://github.com/jaredpalmer/formik)
 - [react-axios](https://github.com/sheaivey/react-axios)
 - [react-ease](https://github.com/threepointone/react-ease)
+- [react-fns](https://github.com/jaredpalmer/react-fns)
 - [react-image-palette](https://github.com/FormidableLabs/react-image-palette)
 - [react-intersection-list](https://github.com/researchgate/react-intersection-list)
 - [react-measure](https://github.com/souporserious/react-measure)
