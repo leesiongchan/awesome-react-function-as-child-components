@@ -25,6 +25,7 @@
 - [react-state](https://github.com/threepointone/react-state)
 - [react-toggled](https://github.com/kentcdodds/react-toggled)
 - [react-transition-group](https://github.com/reactjs/react-transition-group)
+- [react-unsort](https://github.com/jonespen/react-unsort)
 - [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor)
 
 ## Gists
