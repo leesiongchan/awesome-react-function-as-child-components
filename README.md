@@ -9,6 +9,7 @@
 
 - [downshift](https://github.com/paypal/downshift)
 - [formik](https://github.com/jaredpalmer/formik)
+- [holen](https://github.com/tkh44/holen)
 - [react-axios](https://github.com/sheaivey/react-axios)
 - [react-ease](https://github.com/threepointone/react-ease)
 - [react-fns](https://github.com/jaredpalmer/react-fns)
@@ -27,6 +28,7 @@
 - [react-transition-group](https://github.com/reactjs/react-transition-group)
 - [react-unsort](https://github.com/jonespen/react-unsort)
 - [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor)
+- [restyles](https://github.com/tkh44/restyles)
 
 ## Gists
 
