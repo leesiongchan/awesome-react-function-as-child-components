@@ -12,6 +12,7 @@
 - [holen](https://github.com/tkh44/holen)
 - [react-axios](https://github.com/sheaivey/react-axios)
 - [react-ease](https://github.com/threepointone/react-ease)
+- [react-final-form](https://github.com/erikras/react-final-form)
 - [react-fns](https://github.com/jaredpalmer/react-fns)
 - [react-image-palette](https://github.com/FormidableLabs/react-image-palette)
 - [react-intersection-list](https://github.com/researchgate/react-intersection-list)
