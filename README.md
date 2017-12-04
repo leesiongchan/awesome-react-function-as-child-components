@@ -14,6 +14,7 @@
 - [react-ease](https://github.com/threepointone/react-ease)
 - [react-final-form](https://github.com/erikras/react-final-form)
 - [react-fns](https://github.com/jaredpalmer/react-fns)
+- [react-form](https://github.com/react-tools/react-form)
 - [react-image-palette](https://github.com/FormidableLabs/react-image-palette)
 - [react-intersection-list](https://github.com/researchgate/react-intersection-list)
 - [react-measure](https://github.com/souporserious/react-measure)
@@ -27,6 +28,7 @@
 - [react-router](https://github.com/ReactTraining/react-router)
 - [react-springs](https://github.com/threepointone/react-springs)
 - [react-state](https://github.com/threepointone/react-state)
+- [react-table](https://github.com/react-tools/react-table)3
 - [react-toggled](https://github.com/kentcdodds/react-toggled)
 - [react-transition-group](https://github.com/reactjs/react-transition-group)
 - [react-unsort](https://github.com/jonespen/react-unsort)
