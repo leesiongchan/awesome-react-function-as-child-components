@@ -18,6 +18,7 @@
 - [react-intersection-list](https://github.com/researchgate/react-intersection-list)
 - [react-measure](https://github.com/souporserious/react-measure)
 - [react-motion](https://github.com/chenglou/react-motion)
+- [react-move](https://github.com/react-tools/react-move)
 - [react-nes](https://github.com/tkh44/react-nes)
 - [react-portal](https://github.com/tajo/react-portal)
 - [react-progressive-image](https://github.com/FormidableLabs/react-progressive-image)
