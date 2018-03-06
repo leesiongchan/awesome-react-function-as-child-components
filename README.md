@@ -1,4 +1,6 @@
-# React Function as Child Components
+# React Function as Child Components (Obsolete)
+
+This repository is no longer be actively maintained. Please check out the same awesome list here [awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props)
 
 ## Articles
 
@@ -28,7 +30,7 @@
 - [react-router](https://github.com/ReactTraining/react-router)
 - [react-springs](https://github.com/threepointone/react-springs)
 - [react-state](https://github.com/threepointone/react-state)
-- [react-table](https://github.com/react-tools/react-table)3
+- [react-table](https://github.com/react-tools/react-table)
 - [react-toggled](https://github.com/kentcdodds/react-toggled)
 - [react-transition-group](https://github.com/reactjs/react-transition-group)
 - [react-unsort](https://github.com/jonespen/react-unsort)
